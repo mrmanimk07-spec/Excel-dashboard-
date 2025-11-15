@@ -13,7 +13,9 @@ Using Pivot Tables and Charts to analyze employee information such as:
    * Department-wise distribution
    * Salary insights
    * Employee status categories
+
  Key Features
+   
     * Data Cleaning & Preparation
 
     * Excel-based Data Analysis
@@ -25,6 +27,7 @@ Using Pivot Tables and Charts to analyze employee information such as:
     * Insight extraction for HR decision-making
 
  Tools & Technologies Used
+   
     * Microsoft Excel
 
     * Pivot Tables
@@ -34,6 +37,7 @@ Using Pivot Tables and Charts to analyze employee information such as:
     * Data Cleaning Functions (Remove Duplicates, Filtering, Formatting, etc.)
 
  Sheets in the data set
+   
     * Cleaned Employee Dataset (Excel)
 
     * Pivot Table Summary
@@ -41,4 +45,5 @@ Using Pivot Tables and Charts to analyze employee information such as:
     * Pivot Chart Visualizations
 
 Conclusion
+
 The employee dataset reveals clear trends in salary distribution, departmental differences, geographic patterns, and performance stability. By analyzing descriptive, diagnostic, predictive, and prescriptive insights, organizations can improve workforce planning, enhance performance management, and ensure fair compensation strategies.
