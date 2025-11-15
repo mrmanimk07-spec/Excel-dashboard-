@@ -1,18 +1,19 @@
 # Employee data set Excel-dashboard-
-Create excel dashboard for the employee date set and done all analysis in the data set
+Create excel dashboard for the product sales date set and done all analysis in the data set
 
 Project Description
 This project involves:
 
-   * Cleaning raw employee data by removing inconsistencies, duplicates, and formatting errors.
+   * Cleaning raw product sales data by removing inconsistencies, duplicates, and formatting errors.
 
    * Creating structured datasets to improve readability and usability.
 
-Using Pivot Tables and Charts to analyze employee information such as:
+Using Pivot Tables and Charts to analyze product sales information such as:
 
-   * Department-wise distribution
-   * Salary insights
-   * Employee status categories
+   * Date wise
+   * Region wise
+   * city wise
+   * Category
 
  Key Features
    
@@ -38,7 +39,7 @@ Using Pivot Tables and Charts to analyze employee information such as:
 
  Sheets in the data set
    
-    * Cleaned Employee Dataset (Excel)
+    * Cleaned Productsales Dataset (Excel)
 
     * Pivot Table Summary
 
@@ -46,4 +47,4 @@ Using Pivot Tables and Charts to analyze employee information such as:
 
 Conclusion
 
-The employee dataset reveals clear trends in salary distribution, departmental differences, geographic patterns, and performance stability. By analyzing descriptive, diagnostic, predictive, and prescriptive insights, organizations can improve workforce planning, enhance performance management, and ensure fair compensation strategies.
+The Product sales dataset reveals clear trends in Revenue,unit,price. By analyzing descriptive, diagnostic, predictive, and prescriptive insights, organizations can improve workforce planning, enhance performance management, and ensure fair compensation strategies.
